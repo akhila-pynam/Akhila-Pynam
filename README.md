@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="left">Hello World👋🏻 !! Myself Akhila Pynam</h1> 
 
-<!--
-**akhila-pynam/akhila-pynam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3MDVsdW1xOGNpMTkydWpzMXp2cHBwbWg2bGt6dHB1aWdrc3BtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" /> 
 
-Here are some ideas to get you started:
+### 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">I'm a Computer Science Student With a Passion For Exploring New Skills And Knowledge. I Thrive On Learning And Pushing The Boundaries Of What's Possible In Technology.</h3> 
+
+ <div align="left"> 
+ <h3> SKILLS : </h3> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /> <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /> <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+ 
+  </div>
+
+ ### 
+ 
+ <div align="left">
+
+  <h3> E-mail Me👇🏻 : </h3> <a href="mailto:akhilapynam@gmail.com" target=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a>
+
+</div>
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=akhila-pynam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  <!-- <img src="https://streak-stats.demolab.com?user=akhila-pynam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />  -->
+</div>
+
+
+   ###
+   <h2 align="left">A Quote That Has Left a Lasting Impact On Me Is👇🏻</h2> 
+   <p align="left"><i>" The World Is Full Of Obvious Things Which Nobody By Any Chance Ever Observes. "</i> - Sherlock Holmes</p>
