@@ -30,6 +30,12 @@
 </div>
 
 
-   ###
+  ###
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhila-pynam&theme=react&area=true&order=5&bg_color=black&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+  </div>
+
+  ###
+
    <h2 align="left">A Quote That Has Left a Lasting Impact On Me Is👇🏻</h2> 
    <p align="left"><i>" The World Is Full Of Obvious Things Which Nobody By Any Chance Ever Observes. "</i> - Sherlock Holmes</p>
