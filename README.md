@@ -1,10 +1,27 @@
+### 
+
+<!-- NAME CODE -->
+
 <h1 align="left">Hello World👋🏻 !! Myself Akhila Pynam</h1> 
+
+
+###
+
+<!-- GIPHY CODE -->
 
  <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3MDVsdW1xOGNpMTkydWpzMXp2cHBwbWg2bGt6dHB1aWdrc3BtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" /> 
 
+
 ### 
 
+<!-- INTRO CODE -->
+
 <h3 align="left">I'm a Computer Science Student With a Passion For Exploring New Skills And Knowledge. I Thrive On Learning And Pushing The Boundaries Of What's Possible In Technology.</h3> 
+
+
+###
+
+<!-- SKILLS LOGOS CODE -->
 
 <div align="left"> 
  <h3> SKILLS : </h3> 
@@ -18,13 +35,18 @@
 </div>
 
 
- ### 
+###
  
- <div align="left">
-
+ <!-- MAIL CODE -->
+ 
+<div align="left">
   <h3> E-mail Me👇🏻 : </h3> <a href="mailto:akhilapynam@gmail.com" target=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a>
-
 </div>
+
+###
+
+
+<!-- STATS CODE -->
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=akhila-pynam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&bg_color=000000&title_color=FFB6C1" height="150" alt="stats graph" /> 
@@ -33,14 +55,17 @@
   <!-- <img src="https://streak-stats.demolab.com?user=akhila-pynam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />  -->
 
 
+###
 
-  ###
+ <!--  GRAPH CODE -->
   
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhila-pynam&theme=react&area=true&order=5&bg_color=000000&hide_title=false&hide_border=false&line=FFB6C1&color=FFB6C1&number_color=FFFFFF" height="300" alt="activity-graph graph" />
 </div>
 
-  ###
+###
 
+
+<!-- QUOTE CODE -->
    <h2 align="left">A Quote That Has Left a Lasting Impact On Me Is👇🏻</h2> 
    <p align="left"><i>" The World Is Full Of Obvious Things Which Nobody By Any Chance Ever Observes. "</i> - Sherlock Holmes</p>
