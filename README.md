@@ -6,15 +6,17 @@
 
 <h3 align="left">I'm a Computer Science Student With a Passion For Exploring New Skills And Knowledge. I Thrive On Learning And Pushing The Boundaries Of What's Possible In Technology.</h3> 
 
- <div align="left"> 
+<div align="left"> 
  <h3> SKILLS : </h3> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /> <img width="12" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /> <img width="12" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
- 
-  </div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> 
+ <img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/external-file-cad-file-extension-creatype-filed-outline-colourcreatype-32.png" height="40" alt="external-file-cad logo" />
+</div>
+
 
  ### 
  
