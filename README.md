@@ -48,9 +48,12 @@
 
 <!-- STATS CODE -->
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=akhila-pynam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&bg_color=000000&title_color=FFB6C1" height="150" alt="stats graph" /> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhila-pynam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&bg_color=000000&title_color=FFB6C1" 
+       height="150" 
+       alt="stats graph" />
 </div>
+
 
   <!-- <img src="https://streak-stats.demolab.com?user=akhila-pynam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> ( Removed Streak Graph Because It Cant Fetch The Data, Due To API Issue, In Future I'll Think About It )  -->
 
