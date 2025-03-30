@@ -39,7 +39,7 @@
 
 <!-- Compitative Programming Icons -->
 <h3> CP </h3>
-<img src="https://onedrive.live.com/?v=photos&id=root&cid=7BF024B213827101&qt=allmyphotos&photosData=%2Fphoto%2F7BF024B213827101%21s42c131f8aaeb49979febaecf06bbb7d1%3Fview%3Dall" height="40" alt = "leetcode logo" /> <img width = "12" />
+[<img src="https://onedrive.live.com/?v=photos&id=root&cid=7BF024B213827101&qt=allmyphotos&photosData=%2Fphoto%2F7BF024B213827101%21s42c131f8aaeb49979febaecf06bbb7d1%3Fview%3Dall" height="40" alt = "leetcode logo" /> <img width = "12" />](https://icons8.com/icon/9L16NypUzu38/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo)
 
 ###
  
