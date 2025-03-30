@@ -32,9 +32,14 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> 
  <img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/external-file-cad-file-extension-creatype-filed-outline-colourcreatype-32.png" height="40" alt="external-file-cad logo" />
- <i class="cib-leetcode"></i>
 </div>
 
+
+###
+
+<!-- Compitative Programming Icons -->
+<h3> CP </h3>
+<img src="https://onedrive.live.com/?v=photos&id=root&cid=7BF024B213827101&qt=allmyphotos&photosData=%2Fphoto%2F7BF024B213827101%21s42c131f8aaeb49979febaecf06bbb7d1%3Fview%3Dall" height="40" alt = "leetcode logo" /> <img width = "12" />
 
 ###
  
