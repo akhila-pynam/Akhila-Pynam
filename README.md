@@ -39,7 +39,8 @@
 
 <!-- Compitative Programming Icons -->
 <h3>Competitive Programming:</h3>
-<img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" height="40" alt="LeetCode logo" />
+<img src="https://leetcode.com/static/images/LeetCode_Sharing.png" height="40" alt="LeetCode logo" />
+
 
 ###
  
