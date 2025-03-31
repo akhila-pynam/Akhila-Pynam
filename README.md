@@ -39,10 +39,11 @@
 
 <!-- Compitative Programming Icons -->
 
-<h3>CP:</h3>
+<h3>CP :</h3>
 <a href="https://leetcode.com/u/akhila-pynam/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
 </a>
+
 
 
 ###
