@@ -40,11 +40,9 @@
 <!-- Compitative Programming Icons -->
 
 <h3>Competitive Programming:</h3>
-<a href="https://leetcode.com/u/akhila-pynam/" target="_blank" onclick="window.open(this.href, '_blank', 'width=800,height=600'); return false;">
+<a href="https://leetcode.com/u/akhila-pynam/" onclick="window.open('https://leetcode.com/u/akhila-pynam/', '_blank', 'width=800,height=600'); return false;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
 </a>
-
-
 
 ###
  
