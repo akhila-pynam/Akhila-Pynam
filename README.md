@@ -38,9 +38,9 @@
 ###
 
 <!-- Compitative Programming Icons -->
-<h3>Competitive Programming:</h3>
-<img src="https://leetcode.com/static/images/LeetCode_Sharing.png" height="40" alt="LeetCode logo" />
 
+<h3>Competitive Programming:</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
 
 ###
  
