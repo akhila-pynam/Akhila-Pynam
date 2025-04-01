@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" height="40" alt="GeeksForGeeks Logo" />
+    <img src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?type=meta&page_id=61093000000211152&file_name=GG_Logo.png" height="40" alt="GeeksForGeeks Logo" />
 </a>
 
 ###
