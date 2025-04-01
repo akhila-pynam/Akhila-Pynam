@@ -44,17 +44,6 @@
   <!-- LeetCode Profile -->
  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   
-  <!-- GeeksforGeeks Profile -->
-  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="GeeksforGeeks logo" style="display: block;" /> <img width="12" /> 
-  </a>
-
-  <!-- TakeUForward Profile -->
-  <a href="https://takeuforward.org/plus/progress" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://i.pinimg.com/736x/d1/00/58/d100582e49582d50b99b9321eca2ee44.jpg" height="40" alt="TakeUForward logo" style="display: block;" /> <img width="12" /> 
-  </a>
-</div>
-
 
 ###
  
