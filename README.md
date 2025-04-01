@@ -39,32 +39,36 @@
 
 <!-- Compitative Programming Icons -->
 <div align="left">
-  <h3>Problem Solving 💡:</h3>
+  <h3>Find Me 👇🏻:</h3>
 
-  <!-- LeetCode Profile -->
-  <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=FFFFFF&labelColor=000000&style=for-the-badge" height="35" alt="LeetCode logo" /> <img width="25" />
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode logo" />
   </a>
 
-  <!-- GeeksforGeeks Profile -->
-  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&label=&color=2F8D46&logoColor=2F8D46&labelColor=000000&style=for-the-badge" height="35" alt="GeeksforGeeks badge"/> <img width="25" />
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="40" alt="GeeksforGeeks logo" />
   </a>
 
-  <!-- TUF+ Profile -->
-  <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=TUF%2B&logo=tuf&label=&color=FF0000&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="TUF+ logo" /> <img width="25" />
+  <!-- TUF+ -->
+  <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.pinimg.com/736x/d1/00/58/d100582e49582d50b99b9321eca2ee44.jpg" width="52" height="40" alt="TUF+ logo" />
   </a>
 </div>
 
 
 ###
+
+
  
  <!-- MAIL CODE -->
  
 <div align="left">
   <h3> E-mail Me👇🏻 : </h3> <a href="mailto:akhilapynam@gmail.com" target=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a>
 </div>
+
+
 
 ###
 
