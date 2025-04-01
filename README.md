@@ -40,12 +40,12 @@
 <!-- Compitative Programming Icons -->
 
 <h3>Problem Solving💡 :</h3>
-<a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer">
+<a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" height="40" alt="GeeksForGeeks Logo" />
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" height="40" alt="GeeksForGeeks Logo" />
 </a>
 
 ###
