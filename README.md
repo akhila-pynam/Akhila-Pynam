@@ -43,17 +43,17 @@
   
   <!-- LeetCode Profile -->
   <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;" /> <img width="12" /> 
   </a>
   
   <!-- GeeksforGeeks Profile -->
   <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="GeeksforGeeks logo" style="display: block;">
+    <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="GeeksforGeeks logo" style="display: block;" /> <img width="12" /> 
   </a>
 
   <!-- TakeUForward Profile -->
   <a href="https://takeuforward.org/plus/progress" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://i.pinimg.com/736x/d1/00/58/d100582e49582d50b99b9321eca2ee44.jpg" height="40" alt="TakeUForward logo" style="display: block;">
+    <img src="https://i.pinimg.com/736x/d1/00/58/d100582e49582d50b99b9321eca2ee44.jpg" height="40" alt="TakeUForward logo" style="display: block;" /> <img width="12" /> 
   </a>
 </div>
 
