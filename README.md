@@ -45,9 +45,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;" />
 </a>
 
-<link rel="icon" type="image/x-icon" href="https://static.takeuforward.org/content/favicon-yBC0qDmm" />
-<a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    Akhila Pynam
+<a href="https://takeuforward.org/plus/profile/akhila-pynam" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://static.takeuforward.org/content/favicon-yBC0qDmm" height="40" alt="TakeUForward Profile Icon" style="display: inline-block; vertical-align: middle;" />
+    Visit My Profile
 </a>
 
 
