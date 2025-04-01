@@ -39,20 +39,20 @@
 
 <!-- Compitative Programming Icons -->
 <div align="left">
-  <h3>Find Me 👇🏻:</h3>
+  <h3>Problem Solving💡 :</h3>
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer">
+  <!-- LeetCode Profile -->
+  <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode logo" />
   </a>
 
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer">
+  <!-- GeeksforGeeks Profile -->
+  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="40" alt="GeeksforGeeks logo" />
   </a>
 
-  <!-- TUF+ -->
-  <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank" rel="noopener noreferrer">
+  <!-- TUF+ Profile -->
+  <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://i.pinimg.com/736x/d1/00/58/d100582e49582d50b99b9321eca2ee44.jpg" width="52" height="40" alt="TUF+ logo" />
   </a>
 </div>
