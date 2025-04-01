@@ -40,15 +40,15 @@
 <!-- Compitative Programming Icons -->
 
 <h3>Problem Solving💡 :</h3>
-
 <div style="display: flex; align-items: center; gap: 20px;">
-    <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;" />  <img width="12" /> 
+    <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;" />
     </a>
     <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        <img src="https://static.wikia.nocookie.net/youtube/images/e/e9/GeeksforGeeks.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220917214124" height="40" alt="GeeksForGeeks Logo" style="display: block;" />  <img width="12" /> 
+        <img src="https://static.wikia.nocookie.net/youtube/images/e/e9/GeeksforGeeks.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220917214124" height="40" alt="GeeksForGeeks Logo" style="display: block;" />
     </a>
 </div>
+
 
 ###
  
