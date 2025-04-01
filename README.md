@@ -45,12 +45,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;" />
 </a>
 
-<a href="https://takeuforward.org/plus/profile/akhila-pynam" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://i.pinimg.com/736x/d1/00/58/d100582e49582d50b99b9321eca2ee44.jpg" height="40" alt="TakeUForward Profile Icon" style="display: inline-block; vertical-align: middle;" />
-</a>
-
-
-
 ###
  
  <!-- MAIL CODE -->
