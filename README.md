@@ -42,15 +42,16 @@
   <h3>Problem Solving 💡:</h3>
   
   <!-- LeetCode Profile -->
-  <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;">
+  <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;">
   </a>
   
   <!-- GeeksforGeeks Profile -->
-  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="GeeksforGeeks logo" style="display: block;">
+  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="GeeksforGeeks logo" style="display: block;">
   </a>
 </div>
+
 
  
  <!-- MAIL CODE -->
