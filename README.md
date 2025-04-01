@@ -46,8 +46,9 @@
 </a>
 
 <a href="https://takeuforward.org/plus/profile/akhila-pynam" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://static.takeuforward.org/content/favicon-yBC0qDmm" height="40" alt="TakeUForward Profile Icon" style="display: inline-block; vertical-align: middle;" />
+    <img src="https://i.pinimg.com/736x/d1/00/58/d100582e49582d50b99b9321eca2ee44.jpg" height="40" alt="TakeUForward Profile Icon" style="display: inline-block; vertical-align: middle;" />
 </a>
+
 
 
 ###
