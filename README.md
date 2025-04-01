@@ -43,17 +43,17 @@
 
   <!-- LeetCode Profile -->
   <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=FFFFFF&labelColor=000000&style=for-the-badge" height="35" alt="LeetCode logo" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=FFFFFF&labelColor=000000&style=for-the-badge" height="35" alt="LeetCode logo" />  <img width="12" /> 
   </a>
 
   <!-- GeeksforGeeks Profile -->
   <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&label=&color=2F8D46&logoColor=2F8D46&labelColor=000000&style=for-the-badge" height="35" alt="GeeksforGeeks badge"/>
+    <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&label=&color=2F8D46&logoColor=2F8D46&labelColor=000000&style=for-the-badge" height="35" alt="GeeksforGeeks badge"/>  <img width="12" /> 
   </a>
 
   <!-- TUF+ Profile -->
   <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=TUF%2B&logo=tuf&label=&color=FF0000&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="TUF+ logo" />
+    <img src="https://img.shields.io/static/v1?message=TUF%2B&logo=tuf&label=&color=FF0000&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="TUF+ logo" />  <img width="12" /> 
   </a>
 </div>
 ###
