@@ -44,6 +44,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
 </a>
 
+<a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" height="40" alt="GeeksForGeeks Logo" />
+</a>
+
 ###
  
  <!-- MAIL CODE -->
