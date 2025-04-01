@@ -45,9 +45,8 @@
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png](https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png)" height="40" alt="GeeksForGeeks Logo" />
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" height="40" alt="GeeksForGeeks Logo" />
 </a>
-
 
 ###
  
