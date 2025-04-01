@@ -41,13 +41,14 @@
 
 <h3>Problem Solving💡 :</h3>
 
-<a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?type=meta&page_id=61093000000211152&file_name=GG_Logo.png" height="40" alt="GeeksForGeeks Logo" />
-</a>
+<div style="display: flex; align-items: center;">
+    <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block; border: none;" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer">
+        <img src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?type=meta&page_id=61093000000211152&file_name=GG_Logo.png" height="40" alt="GeeksForGeeks Logo" style="display: block; border: none;" />
+    </a>
+</div>
 
 ###
  
