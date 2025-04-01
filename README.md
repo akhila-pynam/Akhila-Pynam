@@ -45,6 +45,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode logo" style="display: block;" />
 </a>
 
+<link rel="icon" type="image/x-icon" href="https://static.takeuforward.org/content/favicon-yBC0qDmm" />
+<a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    Akhila Pynam
+</a>
+
+
 ###
  
  <!-- MAIL CODE -->
