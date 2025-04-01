@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://leetcode.com/u/akhila-pynam/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" height="40" alt="GeeksForGeeks Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" height="20" width="20" alt="GeeksForGeeks Logo" />
 </a>
 
 ###
