@@ -43,7 +43,7 @@
 
   <!-- LeetCode Profile -->
   <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
-     <img src="https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-social-preview.png?v=1714774949349" width="52" height="40" alt="LeetCode logo" />
+   <img src="https://avatars.githubusercontent.com/u/41718343?s=280&v=4" width="52" height="40" alt="GitHub Avatar" />
   </a>
 
   <!-- GeeksforGeeks Profile -->
