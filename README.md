@@ -42,9 +42,10 @@
   <h3>Problem Solving💡 :</h3>
 
   <!-- LeetCode Profile -->
-  <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode logo" />
-  </a>
+ <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode logo" />
+ </a>
+
 
   <!-- GeeksforGeeks Profile -->
   <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
