@@ -43,9 +43,8 @@
 
   <!-- LeetCode Profile -->
  <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
-   <img src="[https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png](https://avatars.githubusercontent.com/u/41718343?s=280&v=4)" width="52" height="40" alt="LeetCode logo" />
- </a>
-
+   <img src="https://avatars.githubusercontent.com/u/41718343?s=280&v=4" width="52" height="40" alt="GitHub Avatar" />
+</a>
 
   <!-- GeeksforGeeks Profile -->
   <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
