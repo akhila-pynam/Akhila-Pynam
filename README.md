@@ -65,8 +65,7 @@
  
 <div align="left">
   <h3> E-mail Me👇🏻 : </h3> <a href="mailto:akhilapynam07@gmail.com" target=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a>
-
-  <h3> E-mail Me👇🏻 : </h3> <a href="https://www.linkedin.com/in/akhila-pynam-ba0369338/" target=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+<a href="https://www.linkedin.com/in/akhila-pynam-ba0369338/" target=""> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 
 </div>
 
