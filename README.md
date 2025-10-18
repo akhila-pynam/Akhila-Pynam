@@ -7,7 +7,7 @@
 
 ###
 
-<!-- GIPHY CODE -->
+<!-- GIPHY CODE --> 
 
  <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3MDVsdW1xOGNpMTkydWpzMXp2cHBwbWg2bGt6dHB1aWdrc3BtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" /> 
 
@@ -48,9 +48,9 @@
   </a>
 
   <!-- GeeksforGeeks Profile -->
-  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
+<!--  <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://cdn.brandfetch.io/idw2s-0Tuo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="40" alt="GeeksforGeeks logo" /> <img width="12" /> 
-  </a>
+  </a> 
 
   <!-- TUF+ Profile -->
   <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none; display: inline-block;">
