@@ -16,7 +16,7 @@
 
 <!-- INTRO CODE -->
 
-<h1 align="left">Student || Problem-Solver || </h1> 
+<h1 align="left">Learner || Problem-Solver || Builder </h1> 
 
 
 ###
