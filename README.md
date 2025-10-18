@@ -16,7 +16,7 @@
 
 <!-- INTRO CODE -->
 
-<h3 align="left">I'm a Computer Science Student With a Passion For Exploring New Skills And Knowledge. I Thrive On Learning And Pushing The Boundaries Of What's Possible In Technology.</h3> 
+<h1 align="left">Student || Problem-Solver || </h1> 
 
 
 ###
