@@ -45,9 +45,9 @@
 <div align="left">
   <h3>Problem Solving 💡</h3>
 
-  • <a href="https://leetcode.com/akhila-pynam/" target="_blank">LeetCode Profile</a><br>
-  • <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank">TUF+ Profile</a><br>
-  <!-- • <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank">GeeksforGeeks Profile</a> -->
+  • <a href="https://leetcode.com/akhila-pynam/" target="_blank" rel="noopener noreferrer">LeetCode Profile</a><br>
+  • <a href="https://takeuforward.org/plus/profile/akhila-pynam/" target="_blank" rel="noopener noreferrer">TUF+ Profile</a><br>
+  <!-- • <a href="https://www.geeksforgeeks.org/user/akhilapynam/" target="_blank" rel="noopener noreferrer">GeeksforGeeks Profile</a> -->
 </div>
 
 
