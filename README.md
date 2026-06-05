@@ -65,14 +65,6 @@
 </div>
 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhila-pynam&show_icons=true&theme=dracula" />
-</div>
-
-###
-
  <!--  GRAPH CODE -->
   
 <div align="center">
