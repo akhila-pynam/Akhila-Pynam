@@ -23,10 +23,19 @@
 
 <!-- SKILLS LOGOS CODE -->
 
-<div align="left"> 
- <h3> Skills : </h3> 
- C++ , Python
- 
+<div align="left">
+  <h3>Skills :</h3>
+
+  C++, C, Java, Python, JavaScript, HTML, CSS,
+  Data Structures & Algorithms, STL,
+  Git & GitHub, Docker,
+  Databases, REST API Integration,
+  Machine Learning, Natural Language Processing (NLP),
+  Generative AI, Google Gemini API,
+  Pandas, Streamlit,
+  Debugging, System Deployment,
+  AI Prompting, Web Development
+  
 </div>
 
 
