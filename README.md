@@ -24,14 +24,18 @@
 <!-- SKILLS LOGOS CODE -->
 
 <div align="left">
-  <h3>💻 Tech Stack</h3>
+  <h3>Skills :</h3>
 
-  <p>
-    C++ • C • Java • Python • JavaScript • HTML • CSS <br>
-    Data Structures & Algorithms • STL • Git • GitHub • Docker <br>
-    Databases • REST APIs • Machine Learning • NLP • Generative AI <br>
-    Google Gemini API • Pandas • Streamlit • Web Development • Debugging
-  </p>
+  C++, C, Java, Python, JavaScript, HTML, CSS,
+  Data Structures & Algorithms, STL,
+  Git & GitHub, Docker,
+  Databases, REST API Integration,
+  Machine Learning, Natural Language Processing (NLP),
+  Generative AI, Google Gemini API,
+  Pandas, Streamlit,
+  Debugging, System Deployment,
+  AI Prompting, Web Development
+  
 </div>
 
 
