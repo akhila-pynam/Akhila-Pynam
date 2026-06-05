@@ -24,17 +24,17 @@
 <!-- SKILLS LOGOS CODE -->
 
 <div align="left">
-  <h3>Skills :</h3>
+  <h3>🔧 Technologies & Tools I Love:</h3>
 
-  <b>Programming Languages:</b> C++, C, Java, Python<br>
-  <b>Frontend:</b> HTML, CSS, JavaScript<br>
-  <b>AI & Machine Learning:</b> Machine Learning, NLP, Generative AI, Google Gemini API, AI Prompting<br>
-  <b>Frameworks & Libraries:</b> Streamlit, Pandas<br>
-  <b>Backend & APIs:</b> REST API Integration<br>
-  <b>Databases:</b> SQL Databases<br>
-  <b>Tools:</b> Git, GitHub, Docker, Debugging<br>
-  <b>Core CS:</b> Data Structures & Algorithms, STL<br>
-  <b>Deployment:</b> System Deployment
+  🔹 <b>Programming Languages:</b> C++, C, Java, Python<br>
+  🔹 <b>Frontend:</b> HTML, CSS, JavaScript<br>
+  🔹 <b>AI & Machine Learning:</b> Machine Learning, NLP, Generative AI, Google Gemini API, AI Prompting<br>
+  🔹 <b>Frameworks & Libraries:</b> Streamlit, Pandas<br>
+  🔹 <b>Backend & APIs:</b> REST API Integration<br>
+  🔹 <b>Databases:</b> SQL Databases<br>
+  🔹 <b>Tools:</b> Git, GitHub, Docker, Debugging<br>
+  🔹 <b>Core CS:</b> Data Structures & Algorithms, STL<br>
+  🔹 <b>Deployment:</b> System Deployment
   
 </div>
 
