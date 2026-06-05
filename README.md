@@ -28,8 +28,7 @@
 
   🔹 <b>Programming Languages:</b> C++, C, Java, Python<br>
   🔹 <b>Frontend:</b> HTML, CSS, JavaScript<br>
-  🔹 <b>AI & Machine Learning:</b> Machine Learning, NLP, Generative AI, Google Gemini API, AI 
-        Prompting<br>
+  🔹 <b>AI & Machine Learning:</b> Machine Learning, NLP, Generative AI, API, AI Prompting<br>
   🔹 <b>Frameworks & Libraries:</b> Streamlit, Pandas<br>
   🔹 <b>Backend & APIs:</b> REST API Integration<br>
   🔹 <b>Databases:</b> SQL Databases<br>
