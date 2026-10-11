@@ -66,11 +66,11 @@
 
 
  <!--  GRAPH CODE -->
-  
+  <!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhila-pynam&theme=react&area=true&order=5&bg_color=000000&hide_title=false&hide_border=false&line=FFB6C1&color=FFB6C1&number_color=FFFFFF" height="300" alt="activity-graph graph" />
 </div>
-
+-->
 ###
 
 
