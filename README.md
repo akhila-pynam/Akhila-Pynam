@@ -26,16 +26,16 @@
 <div align="left">
   <h3>🔧 Technologies & Tools I Love:</h3>
 
-  🔹 <b>Programming Languages:</b> C++, C, Java, Python<br>
-  🔹 <b>Frontend:</b> HTML, CSS, JavaScript<br>
-  🔹 <b>AI & Machine Learning:</b> Machine Learning, NLP, Generative AI, API, AI Prompting<br>
-  🔹 <b>Frameworks & Libraries:</b> Streamlit, Pandas<br>
-  🔹 <b>Backend & APIs:</b> REST API Integration<br>
-  🔹 <b>Databases:</b> SQL Databases<br>
-  🔹 <b>Tools:</b> Git, GitHub, Docker, Debugging<br>
-  🔹 <b>Core CS:</b> Data Structures & Algorithms, STL<br>
-  🔹 <b>Deployment:</b> System Deployment
-  
+  🔹 <b>Programming Languages:</b> C++, C, Java, Python, JavaScript, TypeScript<br>
+  🔹 <b>Frontend Development:</b> HTML5, CSS3, React.js, Next.js, Tailwind CSS<br>
+  🔹 <b>AI & Machine Learning:</b> Machine Learning, NLP, Generative AI, Google Gemini API, Prompt Engineering<br>
+  🔹 <b>Frameworks & Libraries:</b> Streamlit, Pandas, Three.js, Framer Motion, React Flow, Zustand, Recharts<br>
+  🔹 <b>Backend & APIs:</b> Node.js, Express.js, REST APIs<br>
+  🔹 <b>Databases:</b> SQL, MySQL, Supabase<br>
+  🔹 <b>Tools & Platforms:</b> Git, GitHub, Docker, Bun, Vercel<br>
+  🔹 <b>Testing & Security:</b> Playwright, Bun Test, Semgrep, ESLint, Web Application Security<br>
+  🔹 <b>Core CS:</b> Data Structures & Algorithms, STL, OOP, DBMS<br>
+
 </div>
 
 
